@@ -16,3 +16,8 @@
 
 
 打卡位置：https://github.com/Sunny-117/EveryDayAlgorithmBrushing/discussions/2
+
+# 注意
+
+大家记得在这里取消订阅，防止别的同学评论后你收到通知邮件
+<img width="1499" alt="image" src="https://user-images.githubusercontent.com/73089592/199680253-e748e36f-c876-4414-94fc-96e5d805ce66.png">
